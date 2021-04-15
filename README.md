@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - :heartbeat:Nothing interested in.
 - :computer:Now writing game(moving bricks).
-- :books:Learning how to fishing efficiently.
+- :books:Learning how to fish efficiently.
 - :dancer:Expect for nothing but peace.
 - :dog:Sentimental fool.
