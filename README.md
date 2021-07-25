@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
-- :fish: Always on my way to fish. 
-
-- :heartbeat:Nothing interested in.
-- :computer:Now writing game(moving bricks).
-- :books:Learning how to fishing efficiently.
-- :dancer:Expect for nothing but peace.
-- :dog:Sentimental fool.
+ 
