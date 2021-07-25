@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
+<<<<<<< HEAD
  
+=======
+- :fish: Always on my way to fish. 
+
+- :heartbeat:Nothing interested in.
+- :computer:Now writing game(moving bricks).
+- :books:Learning how to fish efficiently.
+- :dancer:Expect for nothing but peace.
+- :dog:Sentimental fool.
+>>>>>>> a9e66b52da045b6a52a5e726f52e9f38e774a13e
